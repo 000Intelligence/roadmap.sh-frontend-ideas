@@ -88,7 +88,7 @@ This repository contains a collection of front-end projects inspired by the [Roa
 1. [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 2. [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 3. [Change Log](https://roadmap.sh/projects/changelog-component)
-4. [Testimonial](https://roadmap.sh/projects/testimonial)
+4. [Testimonial](https://roadmap.sh/projects/testimonial-cards)
 5. [Date Picker UI](https://roadmap.sh/projects/date-picker-ui)
 6. [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
 7. [Tabs](https://roadmap.sh/projects/tabs)
