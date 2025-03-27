@@ -92,7 +92,7 @@ This repository contains a collection of front-end projects inspired by the [Roa
 5. [Date Picker UI](https://roadmap.sh/projects/datepicker-ui)
 6. [Accessible Form UI](https://roadmap.sh/projects/accessible-form-ui)
 7. [Tabs](https://roadmap.sh/projects/tabs)
-8. [Grid Image Layout](https://roadmap.sh/projects/grid-image-layout)
+8. [Grid Image Layout](https://roadmap.sh/projects/image-grid)
 9. [UI Tooltip](https://roadmap.sh/projects/ui-tooltip)
 10. [Cookie](https://roadmap.sh/projects/cookie)
 11. [Restricted Textarea](https://roadmap.sh/projects/restricted-textarea)
